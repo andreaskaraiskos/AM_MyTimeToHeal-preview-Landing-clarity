@@ -796,7 +796,7 @@ section.lazy-placeholder:after {
 }
 .cid-rOOo9YmNCI .price-figure {
   font-weight: 600;
-  color: #232323;
+  color: #3b1d47;
 }
 .cid-rOOo9YmNCI .price-value {
   font-weight: 700;
@@ -811,6 +811,10 @@ section.lazy-placeholder:after {
 }
 .cid-rOOo9YmNCI .plan-price .price-figure {
   color: #2b0d38;
+}
+.cid-rOOo9YmNCI .list-group,
+.cid-rOOo9YmNCI .mbr-section-btn {
+  color: #3b1d47;
 }
 .cid-saHsXZ3WnC {
   padding-top: 60px;
